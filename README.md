@@ -14,7 +14,7 @@ To use this tool:
 4) Copy and paste the code into the developer console, then hit enter to filter out the results
 
 
-NOTE THAT IF YOU'VE NOT MODIFIED THE LIST OF CURRENT_SYSTEM_ITEMS, THE WRONG ITEMS WILL BE FILTERED OUT.
+If you would like to filter out a specific set of items, add their names to the currently_traded_items array.
 
 
 To customize the tool's settings, change one of the settings variables.  Those are the variables at the top of the file.  It's pretty straight forward.  You've got your min & max ROI, along with min & max profit.  Additionally, you can change the list of currently traded items to filter out items that you're already trading in.
